@@ -4,6 +4,10 @@ In this repository, we release the codes used for the paper:
 
 https://iopscience.iop.org/article/10.1088/1361-6404/ab8360
 
+read current PDF on arXiv: 
+
+https://arxiv.org/pdf/1911.04906.pdf
+
 This project uses MATLAB to simulate closed and open quantum systems. For the closed quantum system, we focus on the time-independent Schrödinger equation applied to the Ising model and cavity QED arrays. For open quantum systems, we introduce a fast algorithm to solve the Markovian master equation. Also, we address the Open Ising Model and a Two-Level-System coupled to a photon reservoir. Finally, we introduce the time-local master equation applied to the spin-boson model with pure dephasing. There are various functions used to optimize the presented dynamics.
 
 # Functions
